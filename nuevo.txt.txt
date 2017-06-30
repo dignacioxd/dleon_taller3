@@ -1,4 +1,4 @@
 ejemplo
 
-nuevo desde local
+nuevo texto desde local
 
